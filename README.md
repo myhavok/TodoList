@@ -1,6 +1,6 @@
 # Todo List Application
 
-A simple Todo List application built with HTML, CSS, and JavaScript. This application helps you manage your tasks effectively by allowing you to add, mark as complete, and delete tasks, while saving them in your browser's local storage.
+A simple Todo List application built with HTML, CSS, and JavaScript. This application helps manage tasks effectively by allowing you to add, mark as complete, and delete tasks, while saving them in your browser's local storage.
 
 ## Table of Contents
 
