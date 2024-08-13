@@ -15,7 +15,7 @@ A simple Todo List application built with HTML, CSS, and JavaScript. This applic
 
 Here’s a visual representation of the Todo List application:
 
-![Todo List Screenshot](images)
+![Todo List Screenshot](images/screenshot.png)
 
 ## Features
 
@@ -28,8 +28,8 @@ Here’s a visual representation of the Todo List application:
 
 ## Technologies Used
 
-- **HTML5:** Provides the structure for the application.
-- **CSS3:** Styles the application with a modern and clean design.
+- **HTML:** Provides the structure for the application.
+- **CSS:** Styles the application with a modern and clean design.
 - **JavaScript :** Used for the functionality of the app, including managing tasks and local storage handling.
 - **Boxicons:** Used for icons within the app.
 
