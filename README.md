@@ -7,8 +7,6 @@ A simple Todo List application built with HTML, CSS, and JavaScript. This applic
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setting Up](#setting-up)
-- [Usage](#usage)
 - [Code Structure](#code-structure)
 
 ## Demo
