@@ -26,7 +26,7 @@ Here’s a visual representation of the Todo List application:
 - **Clear All Tasks:** Removes all tasks at once.
 - **Responsive Design:** Optimized the design for both desktop and mobile devices.
 
-## Technologies Used
+## Technology Used
 
 - **HTML:** Provides the structure for the application.
 - **CSS:** Styles the application with a modern and clean design.
