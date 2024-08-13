@@ -15,7 +15,7 @@ A simple Todo List application built with HTML, CSS, and JavaScript. This applic
 
 Here’s a visual representation of the Todo List application:
 
-![Todo List Screenshot](todo-list-demo.png)
+![Todo List Screenshot](Screenshot 2024-08-13 at 3.32.30 PM.png)
 
 ## Features
 
